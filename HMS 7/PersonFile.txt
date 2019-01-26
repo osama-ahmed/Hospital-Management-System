@@ -1,0 +1,14 @@
+doctor
+D01 osama giza_egypt 33445566 dental
+doctor
+D02 gamal hadayk_elkoba 22334455 Skin
+doctor
+D03 hamed dar_elsalam 3456789 surgery
+nurse
+N01 fatma cairo 334456 dental
+nurse
+N02 asmaa giza 34567 surgery
+patient
+P01 fadl haram 34587 dental
+patient
+P02 khaled elzawya_shubra 345345 Skin

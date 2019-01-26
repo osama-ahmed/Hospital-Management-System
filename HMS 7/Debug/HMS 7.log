@@ -1,0 +1,17 @@
+﻿Build started 16/05/2014 09:30:29 ص.
+     1>Project "G:\output\My projects\C++\Hospital management system\phase 2\(HMS 7)\HMS 7\HMS 7.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\HMS 7.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         HMS 7.vcxproj -> G:\output\My projects\C++\Hospital management system\phase 2\(HMS 7)\Debug\HMS 7.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\HMS 7.unsuccessfulbuild".
+         Touching "Debug\HMS 7.lastbuildstate".
+     1>Done Building Project "G:\output\My projects\C++\Hospital management system\phase 2\(HMS 7)\HMS 7\HMS 7.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.30

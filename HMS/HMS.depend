@@ -1,0 +1,260 @@
+# depslib dependency file v1.0
+1387499692 source:g:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms 7\accounting.cpp
+	<iostream>
+	"Accounting.h"
+
+1387579950 g:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms 7\accounting.h
+	<string>
+	"Clinic.h"
+
+1387579950 g:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms 7\clinic.h
+	<iostream>
+	<string>
+	"name_ID.h"
+
+1387406766 g:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms 7\name_id.h
+	<string>
+	"global.h"
+
+1387505620 g:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms 7\global.h
+
+1387567074 source:g:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms 7\clinic.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"Clinic.h"
+
+1387503890 source:g:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms 7\doctor.cpp
+	<iostream>
+	<string>
+	"Doctor.h"
+
+1387651984 g:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms 7\doctor.h
+	<string>
+	"Person.h"
+
+1388164859 g:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms 7\person.h
+	<string>
+	"name_ID.h"
+	"Clinic.h"
+
+1387499692 source:g:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\accounting.cpp
+	<iostream>
+	"Accounting.h"
+
+1387579950 g:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\accounting.h
+	<string>
+	"Clinic.h"
+
+1387579950 g:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\clinic.h
+	<iostream>
+	<string>
+	"name_ID.h"
+
+1387406766 g:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\name_id.h
+	<string>
+	"global.h"
+
+1387505620 g:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\global.h
+
+1387567074 source:g:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\clinic.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"Clinic.h"
+
+1387503890 source:g:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\doctor.cpp
+	<iostream>
+	<string>
+	"Doctor.h"
+
+1387651984 g:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\doctor.h
+	<string>
+	"Person.h"
+
+1388164859 g:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\person.h
+	<string>
+	"name_ID.h"
+	"Clinic.h"
+
+1388165083 source:g:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\main.cpp
+	<iostream>
+	<fstream>
+	<typeinfo>
+	<stdlib.h>
+	"global.h"
+	"File.h"
+	"TextFile.h"
+	"Algorithm.h"
+	"name_ID.h"
+	"Clinic.h"
+	"Person.h"
+	"Doctor.h"
+	"Nurse.h"
+	"Patient.h"
+	"Reservation.h"
+	"Accounting.h"
+
+1410558598 g:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\file.h
+	"Clinic.h"
+	"Reservation.h"
+	"Doctor.h"
+	"Nurse.h"
+
+1387579962 g:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\reservation.h
+	<string>
+	"Patient.h"
+
+1387637500 g:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\patient.h
+	<string>
+	"Person.h"
+
+1387488728 g:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\nurse.h
+	<string>
+	"Person.h"
+
+1387644038 g:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\textfile.h
+
+1387651984 g:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\algorithm.h
+	<string>
+	"Clinic.h"
+
+1387409788 source:g:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\name_id.cpp
+	<iostream>
+	<string>
+	"Clinic.h"
+	"Doctor.h"
+	"Patient.h"
+	"Reservation.h"
+	"Accounting.h"
+
+1387503890 source:g:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\nurse.cpp
+	<iostream>
+	<string>
+	"Nurse.h"
+
+1387504396 source:g:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\patient.cpp
+	<iostream>
+	<string>
+	"Patient.h"
+
+1387503848 source:g:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\person.cpp
+	<iostream>
+	<string>
+	"Person.h"
+
+1387644234 source:g:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\reservation.cpp
+	<iostream>
+	<string>
+	"Reservation.h"
+
+1387503292 source:d:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\accounting.cpp
+	<iostream>
+	"Accounting.h"
+
+1387583550 d:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\accounting.h
+	<string>
+	"Clinic.h"
+
+1387583550 d:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\clinic.h
+	<iostream>
+	<string>
+	"name_ID.h"
+
+1387410366 d:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\name_id.h
+	<string>
+	"global.h"
+
+1387509220 d:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\global.h
+
+1387570674 source:d:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\clinic.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"Clinic.h"
+
+1387507490 source:d:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\doctor.cpp
+	<iostream>
+	<string>
+	"Doctor.h"
+
+1387655586 d:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\doctor.h
+	<string>
+	"Person.h"
+
+1388168460 d:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\person.h
+	<string>
+	"name_ID.h"
+	"Clinic.h"
+
+1388168684 source:d:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\main.cpp
+	<iostream>
+	<fstream>
+	<typeinfo>
+	<stdlib.h>
+	"global.h"
+	"File.h"
+	"TextFile.h"
+	"Algorithm.h"
+	"name_ID.h"
+	"Clinic.h"
+	"Person.h"
+	"Doctor.h"
+	"Nurse.h"
+	"Patient.h"
+	"Reservation.h"
+	"Accounting.h"
+
+1410565800 d:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\file.h
+	"Clinic.h"
+	"Reservation.h"
+	"Doctor.h"
+	"Nurse.h"
+
+1387583562 d:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\reservation.h
+	<string>
+	"Patient.h"
+
+1387641100 d:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\patient.h
+	<string>
+	"Person.h"
+
+1387492328 d:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\nurse.h
+	<string>
+	"Person.h"
+
+1387647640 d:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\textfile.h
+
+1387655586 d:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\algorithm.h
+	<string>
+	"Clinic.h"
+
+1387413388 source:d:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\name_id.cpp
+	<iostream>
+	<string>
+	"Clinic.h"
+	"Doctor.h"
+	"Patient.h"
+	"Reservation.h"
+	"Accounting.h"
+
+1387507490 source:d:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\nurse.cpp
+	<iostream>
+	<string>
+	"Nurse.h"
+
+1387507996 source:d:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\patient.cpp
+	<iostream>
+	<string>
+	"Patient.h"
+
+1387507448 source:d:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\person.cpp
+	<iostream>
+	<string>
+	"Person.h"
+
+1387647836 source:d:\output\my projects\c++\hospital management system\phase 2\(hms 7)\hms\reservation.cpp
+	<iostream>
+	<string>
+	"Reservation.h"
+
